@@ -1,0 +1,14 @@
+.container{
+    max-width: 300px;
+    background-color: rgba(211, 211, 211, 0.642);
+    border-radius: 10px;
+    padding: 10px 15px;
+    font-size: 1.2rem;
+    margin: auto;
+}
+li{
+    border-bottom: 1px solid black;
+    list-style: none;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
